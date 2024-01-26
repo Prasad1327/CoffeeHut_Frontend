@@ -6,7 +6,7 @@
 - Vanilla Latte
 - Cold Brew
 - #### Special Peaberry Coffee Blend
-  - *Description:* Our exclusive Special Coffee Blend, crafted with the finest beans from around the world.
+  - *Description:* Our exclusive Special Coffee Blend, crafted with the finest beans and peaberries from around the world.
   - *Price:* 750 Rs per bag
   - *Discount for Coffehut_Wallet Users:*
     - *Discount Percentage:* 10%
